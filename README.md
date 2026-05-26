@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-using-DASD-ViT-simple--timeseries-images
